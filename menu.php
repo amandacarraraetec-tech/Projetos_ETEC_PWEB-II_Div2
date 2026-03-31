@@ -1,3 +1,12 @@
+<?php
+/*Mesma coisa que o uses do delphi ou lazarus (ALT+F11)*/
+require './controle/conexao.php';
+
+/*semelhante ao connected do Delphi ou Lazarus (query)*/
+$pdo = Conexao::conectar();
+$pdo->setAttribute(PDO::ATTR_ERRMODE,PDO::ERRMODE_EXCEPTION);
+?>
+
 <nav class="navbar navbar-expand-lg bg-body-tertiary">
     <div class="container-fluid">
         <a class="navbar-brand" href="index.html">LogoDaLojinha</a>

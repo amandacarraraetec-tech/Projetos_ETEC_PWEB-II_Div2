@@ -1,9 +1,9 @@
 <?php
 //declaração de atributos(mesma coisa que variáveis)
-$imagem = "midias/163549-1600-1600.webp";
-$titulo = "Notebook VAIO FE16";
-$resumo = "Notebook VAIO FE16 AMD® Ryzen 7-5825U Linux 8GB RAM 512GB SSD 16' IPS WUXGA Antirreflexo - Cinza Grafite";
-$valor = 3399.98;
+$imagem = "midias/persona5royal.webp";
+$titulo = "Persona 5 Royal";
+$resumo = "Persona 5 Royal mídia física para PS4";
+$valor = 196.32;
 $quantidade = 5;
 $i = 1;
 ?>
