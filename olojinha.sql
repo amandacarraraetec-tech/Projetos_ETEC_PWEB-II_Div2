@@ -91,3 +91,28 @@ where
     prosubid = subid
 and
     subcatid = catid
+
+    Insert into subcategorias
+(subnome, subcatid)
+VALUES
+("Para Playstation","21"),
+("Fones","21");
+
+Insert into subcategorias
+(subnome, subcatid)
+VALUES
+("Livros Físicos","28"),
+("Ebooks","28");
+
+Insert into produtos
+(pronome, prodescricao, provalorcusto, provalorvenda, proquantidade, prosubid)
+Values
+('Persona 5 Royal PS4','Disco físico de Persona 5 Royal lacrado e novo para Playstation 4',80,120,421,1),
+('Headseat Preto','Headseat preto de ótima qualidade, confortável e anti-ruído.',100,150.90,590,2),
+('Não pertube a floresta','Livro de terror botânico escrito por C.G DREWS, onde monstros originários de desenhos atacam dois garotos em seu internato. Os garotos assumem a responsábilidade por erradicá-los.',40,68.50,149,3),
+('O Rei de sua Própria Distopia','Livro de distopia apocaliptica escrito por Amanda Carrara, onde um grupo de jovens é obrigado a passar pelos horrores do apocalipse enquanto lidam com seus problemas e traumas.',0,10,200,4),
+
+('Resident Evil 2 Remake PS5','Disco Físico de Resident Evil 2 Remake usado para Playstation 5',120,200,876,1),
+('JBL bluetooth TUNE 520B','Fone de ouvido JBL Bluetooth azul modelo 520B',80,271.90,243,2),
+('Box A saga dos corvos','Box contendo os quatro livros da A saga dos corvos, escrito por Maggie Stiefvater / "Os garotos corvos", "Ladrões de sonhos", "Lírio Azul, Azul Lírio" e "O rei corvo" + o Conto "Opala"', 70, 150.50, 428, 3),
+('Coraline', 'Ebook Coraline de Neil Gaimman, origem do famoso filme "Coraline"', 0, 30, 300, 4);
