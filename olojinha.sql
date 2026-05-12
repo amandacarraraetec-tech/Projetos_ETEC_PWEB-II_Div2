@@ -109,8 +109,8 @@ Insert into produtos
 Values
 ('Persona 5 Royal PS4','Disco físico de Persona 5 Royal lacrado e novo para Playstation 4',80,120,421,1),
 ('Headseat Preto','Headseat preto de ótima qualidade, confortável e anti-ruído.',100,150.90,590,2),
-('Não pertube a floresta','Livro de terror botânico escrito por C.G DREWS, onde monstros originários de desenhos atacam dois garotos em seu internato. Os garotos assumem a responsábilidade por erradicá-los.',40,68.50,149,3),
-('O Rei de sua Própria Distopia','Livro de distopia apocaliptica escrito por Amanda Carrara, onde um grupo de jovens é obrigado a passar pelos horrores do apocalipse enquanto lidam com seus problemas e traumas.',0,10,200,4),
+('Não pertube a floresta','Livro de terror botânico escrito por C.G DREWS, onde monstros originários de desenhos atacam dois garotos em seu internato.',40,68.50,149,3),
+('Lições sobre afogamentos','Ebbok de dark academia escrito por Ava Reid',0,10,200,4),
 
 ('Resident Evil 2 Remake PS5','Disco Físico de Resident Evil 2 Remake usado para Playstation 5',120,200,876,1),
 ('JBL bluetooth TUNE 520B','Fone de ouvido JBL Bluetooth azul modelo 520B',80,271.90,243,2),
